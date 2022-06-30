@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/manojLL-portfolio/static/css/main.c6e04fa3.chunk.css",
-    "main.js": "/manojLL-portfolio/static/js/main.efb014cc.chunk.js",
-    "main.js.map": "/manojLL-portfolio/static/js/main.efb014cc.chunk.js.map",
+    "main.css": "/manojLL-portfolio/static/css/main.64259e40.chunk.css",
+    "main.js": "/manojLL-portfolio/static/js/main.f765f227.chunk.js",
+    "main.js.map": "/manojLL-portfolio/static/js/main.f765f227.chunk.js.map",
     "runtime-main.js": "/manojLL-portfolio/static/js/runtime-main.601504fe.js",
     "runtime-main.js.map": "/manojLL-portfolio/static/js/runtime-main.601504fe.js.map",
     "static/css/2.8dcde476.chunk.css": "/manojLL-portfolio/static/css/2.8dcde476.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.0976dabb.chunk.js.map": "/manojLL-portfolio/static/js/3.0976dabb.chunk.js.map",
     "index.html": "/manojLL-portfolio/index.html",
     "static/css/2.8dcde476.chunk.css.map": "/manojLL-portfolio/static/css/2.8dcde476.chunk.css.map",
-    "static/css/main.c6e04fa3.chunk.css.map": "/manojLL-portfolio/static/css/main.c6e04fa3.chunk.css.map",
+    "static/css/main.64259e40.chunk.css.map": "/manojLL-portfolio/static/css/main.64259e40.chunk.css.map",
     "static/js/2.8b25066a.chunk.js.LICENSE.txt": "/manojLL-portfolio/static/js/2.8b25066a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/manojLL-portfolio/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.a6dca99d.svg": "/manojLL-portfolio/static/media/adobe-xd.a6dca99d.svg",
@@ -96,6 +96,7 @@
     "static/media/julia.be076220.svg": "/manojLL-portfolio/static/media/julia.be076220.svg",
     "static/media/kotlin.4f592da4.svg": "/manojLL-portfolio/static/media/kotlin.4f592da4.svg",
     "static/media/lightroom.0e67d833.svg": "/manojLL-portfolio/static/media/lightroom.0e67d833.svg",
+    "static/media/manoj.23f4e3df.jpg": "/manojLL-portfolio/static/media/manoj.23f4e3df.jpg",
     "static/media/markdown.62e50cf0.svg": "/manojLL-portfolio/static/media/markdown.62e50cf0.svg",
     "static/media/materialui.518da2c0.svg": "/manojLL-portfolio/static/media/materialui.518da2c0.svg",
     "static/media/matlab.3d4e15a6.svg": "/manojLL-portfolio/static/media/matlab.3d4e15a6.svg",
@@ -155,7 +156,7 @@
     "static/js/runtime-main.601504fe.js",
     "static/css/2.8dcde476.chunk.css",
     "static/js/2.8b25066a.chunk.js",
-    "static/css/main.c6e04fa3.chunk.css",
-    "static/js/main.efb014cc.chunk.js"
+    "static/css/main.64259e40.chunk.css",
+    "static/js/main.f765f227.chunk.js"
   ]
 }
