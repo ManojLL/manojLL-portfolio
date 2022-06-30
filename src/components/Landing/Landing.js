@@ -7,7 +7,7 @@ import './Landing.css';
 import { ThemeContext } from '../../contexts/ThemeContext';
 import { headerData } from '../../data/headerData';
 import { socialsData } from '../../data/socialsData';
-
+import image from '../../assets/png/manoj.jpg'
 import {
     FaTwitter,
     FaLinkedin,
@@ -143,8 +143,8 @@ function Landing() {
                     </div>
                 </div>
                 <img
-                    src={headerData.image}
-                    alt=''
+                    src={image}
+                    alt='manoj'
                     className='landing--img'
                     style={{
                         opacity: `${drawerOpen ? '0' : '1'}`,
