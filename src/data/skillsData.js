@@ -10,7 +10,7 @@
     'Python',
     'Node JS',
     'Wordpress',
-    'Spring Boot',
+    'Spring',
     'Bootstrap'
 ]
 

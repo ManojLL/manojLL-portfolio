@@ -27,7 +27,7 @@ function AchievementCard({id, title, details, date, field, image}) {
            <div key={id} className={`achievement-card ${classes.achievementCard}`}>
                <div className="achievecard-content">
                     <div className="achievecard-details1">
-                        <h2 style={{color: theme.tertiary}}>{title}</h2>
+                        <h1 style={{color: theme.tertiary}}>{title}</h1>
                         <p style={{color: theme.tertiary80}}>{details}</p>
                     </div>
                     <div className="achievecard-details2" style={{color: theme.primary}}>
@@ -38,9 +38,9 @@ function AchievementCard({id, title, details, date, field, image}) {
                         </div>   
                     </div>
                 </div> 
-                <div className="achievecard-imgcontainer">
+                {/* <div className="achievecard-imgcontainer">
                     <img src={image} alt="" />
-                </div>
+                </div> */}
            </div>
         </Fade>
         

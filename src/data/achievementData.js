@@ -3,11 +3,11 @@ export const achievementData = {
     achievements : [
         {
             id : 1,
-            title : '2021 Complete Python Bootcamp From Zero to Hero in Python',
-            details : 'A python course from Udemy',
-            date : 'Jan 28, 2021',
+            title : 'Selected to NBQSA in 2021',
+            details : 'Project Brahmilator',
+            date : '2021',
             field : 'Coding',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-0cd075aa-f55b-4d9f-aec0-119020a4e792.jpg?v=1611846350000'
+            image : ''
         }
 
     ]
